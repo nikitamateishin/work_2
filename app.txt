@@ -6,3 +6,4 @@ menu greeting accepted
 
 login form
 
+client-side validation
