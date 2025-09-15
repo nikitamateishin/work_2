@@ -10,3 +10,4 @@ client-side validation
 
 
 Hello from main
+Hello from menu
